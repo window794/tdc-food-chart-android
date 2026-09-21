@@ -1,0 +1,417 @@
+{
+  "summary": {
+    "total": 40,
+    "open_shops": 33,
+    "closed_shops": 7,
+    "error_shops": 0
+  },
+  "closed_urls": [
+    "https://www.laqua.jp/shops/list/halfsaintsbakes/",
+    "https://www.laqua.jp/shops/list/kikunoya/",
+    "https://www.laqua.jp/shops/list/nichinichipao/",
+    "https://www.laqua.jp/spa/facilities/restaurants/casa_deli/",
+    "https://www.tokyo-dome.co.jp/shops/g-donchava.html"
+  ],
+  "data": [
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "お昼ご飯かそれともおやつ？ エリンギのフォカッチャとアップルパイ",
+      "author": "河村拓哉",
+      "restaurant": "Half Saints BAKES",
+      "url": "https://www.laqua.jp/shops/list/halfsaintsbakes/",
+      "coaster": "ボイスB",
+      "price": 1080,
+      "is_closed": true
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "夜の始まり黄昏チキンフォカッチャ＆ピーチパイ",
+      "author": "東言",
+      "restaurant": "Half Saints BAKES",
+      "url": "https://www.laqua.jp/shops/list/halfsaintsbakes/",
+      "coaster": "謎B",
+      "price": 1080,
+      "is_closed": true
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "飛び出せ！いちごのJAM IN THE DONUTS",
+      "author": "東問",
+      "restaurant": "JACK IN THE DONUTS",
+      "url": "https://www.laqua.jp/shops/list/jackinthedounuts/",
+      "coaster": "ボイスB",
+      "price": 700,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "ペパパププリン 〜ペッパー薫る濃厚パンプキンプリン〜",
+      "author": "山本祥彰",
+      "restaurant": "クラフトプリン製作所 vuke",
+      "url": "https://www.laqua.jp/shops/list/vuke/",
+      "coaster": "クイズA",
+      "price": 630,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "虹にない夜の色、紅芋と紫芋のプリン",
+      "author": "河村拓哉",
+      "restaurant": "クラフトプリン製作所 vuke",
+      "url": "https://www.laqua.jp/shops/list/vuke/",
+      "coaster": "クイズB",
+      "price": 630,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "日本初！伊沢が熱望したパーリンカ・シュークリーム",
+      "author": "伊沢拓司",
+      "restaurant": "アトリエ・ド・マー",
+      "url": "https://www.laqua.jp/shops/list/atelier/",
+      "coaster": "謎A",
+      "price": 800,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "フルーツチーズタルト・シアン（#00FFFF）",
+      "author": "ふくらP",
+      "restaurant": "アトリエ・ド・マー",
+      "url": "https://www.laqua.jp/shops/list/atelier/",
+      "coaster": "クイズB",
+      "price": 800,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "汁なしタンタン・ヴィオレ",
+      "author": "伊沢拓司",
+      "restaurant": "フレンチヌードルファクトリー",
+      "url": "https://www.laqua.jp/restaurants/list/frenchnoodlefactory/",
+      "coaster": "ボイスA",
+      "price": 1380,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "いちごクリームソーダ〜派手で甘くてアイス付きってガチ最強やん〜",
+      "author": "須貝駿貴",
+      "restaurant": "フレンチヌードルファクトリー",
+      "url": "https://www.laqua.jp/restaurants/list/frenchnoodlefactory/",
+      "coaster": "謎A",
+      "price": 780,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "「いちご」一会",
+      "author": "須貝駿貴",
+      "restaurant": "一〇八抹茶茶廊",
+      "url": "https://www.laqua.jp/shops/list/ichimaruhachimatchasaro/",
+      "coaster": "ボイスA",
+      "price": 800,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "燦々（さんさん）",
+      "author": "東言",
+      "restaurant": "銀座 菊廼舎",
+      "url": "https://www.laqua.jp/shops/list/kikunoya/",
+      "coaster": "謎A",
+      "price": 1296,
+      "is_closed": true
+    },
+    {
+      "area": "ラクーア DELI & DISH",
+      "menu": "南国の山本さんをイメージ！マンゴー杏仁",
+      "author": "鶴崎修功",
+      "restaurant": "日日包",
+      "url": "https://www.laqua.jp/shops/list/nichinichipao/",
+      "coaster": "クイズA",
+      "price": 918,
+      "is_closed": true
+    },
+    {
+      "area": "ラクーア",
+      "menu": "塩分はポテトで摂るのが1番！タコスミートポテト",
+      "author": "鶴崎修功",
+      "restaurant": "ミゲルフアニ",
+      "url": "https://www.laqua.jp/restaurants/list/migueljuani/",
+      "coaster": "ボイスA",
+      "price": 1280,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア",
+      "menu": "須貝スペシャルオレンジフロート 通年メニューにしませんか？",
+      "author": "須貝駿貴",
+      "restaurant": "creperie kenny's",
+      "url": "https://www.laqua.jp/restaurants/list/creperiekennys/",
+      "coaster": "クイズA",
+      "price": 1000,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア",
+      "menu": "バナナチョコミルク 斑状組織風",
+      "author": "ふくらP",
+      "restaurant": "creperie kenny's",
+      "url": "https://www.laqua.jp/restaurants/list/creperiekennys/",
+      "coaster": "謎A",
+      "price": 1000,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア",
+      "menu": "白い革命〜カレー×クレープ〜",
+      "author": "伊沢拓司",
+      "restaurant": "creperie kenny's",
+      "url": "https://www.laqua.jp/restaurants/list/creperiekennys/",
+      "coaster": "謎B",
+      "price": 1200,
+      "is_closed": false
+    },
+    {
+      "area": "ラクーア",
+      "menu": "灯火親しむべし！かぼちゃのトーチクレープ",
+      "author": "山本祥彰",
+      "restaurant": "creperie kenny's",
+      "url": "https://www.laqua.jp/restaurants/list/creperiekennys/",
+      "coaster": "クイズB",
+      "price": 1200,
+      "is_closed": false
+    },
+    {
+      "area": "スパ ラクーア",
+      "menu": "トマ～トソ～ス！う～んトレビア～ン！",
+      "author": "東言",
+      "restaurant": "CAFE CASA＆Deli",
+      "url": "https://www.laqua.jp/spa/facilities/restaurants/casa_deli/",
+      "coaster": "ボイスB",
+      "price": 1500,
+      "is_closed": true
+    },
+    {
+      "area": "スパ ラクーア",
+      "menu": "アセロラサンライズフロート",
+      "author": "河村拓哉",
+      "restaurant": "dayoff cafe",
+      "url": "https://www.laqua.jp/spa/facilities/restaurants/dayoffcafe/",
+      "coaster": "謎A",
+      "price": 850,
+      "is_closed": false
+    },
+    {
+      "area": "スパ ラクーア",
+      "menu": "珈琲車厘（コーヒーゼリー）",
+      "author": "須貝駿貴",
+      "restaurant": "R.S. BAR",
+      "url": "https://www.laqua.jp/spa/facilities/restaurants/rsbar/",
+      "coaster": "クイズB",
+      "price": 1200,
+      "is_closed": false
+    },
+    {
+      "area": "スパ ラクーア",
+      "menu": "秉燭夜遊（へいしょくやゆう）",
+      "author": "山本祥彰",
+      "restaurant": "THE BAR",
+      "url": "https://www.laqua.jp/spa/facilities/restaurants/the_bar/",
+      "coaster": "謎B",
+      "price": 1200,
+      "is_closed": false
+    },
+    {
+      "area": "スパ ラクーア",
+      "menu": "◯が10個も！大正解・丸十ブンカレー〜ココナッツ風味〜",
+      "author": "伊沢拓司",
+      "restaurant": "ニャーヴェトナム",
+      "url": "https://www.laqua.jp/spa/facilities/restaurants/nha-vietnam/",
+      "coaster": "ボイスA",
+      "price": 1500,
+      "is_closed": false
+    },
+    {
+      "area": "スパ ラクーア",
+      "menu": "最もおいしい飲み物、ヨーグルト",
+      "author": "鶴崎修功",
+      "restaurant": "バーデカフェ",
+      "url": "https://www.laqua.jp/spa/facilities/restaurants/barde_cafe/",
+      "coaster": "謎B",
+      "price": 980,
+      "is_closed": false
+    },
+    {
+      "area": "スパ ラクーア",
+      "menu": "思わず正座もくずしちゃうホワイトホットうどん",
+      "author": "山本祥彰",
+      "restaurant": "よ志のやダイニング",
+      "url": "https://www.laqua.jp/spa/facilities/restaurants/yoshinoya/",
+      "coaster": "ボイスB",
+      "price": 2500,
+      "is_closed": false
+    },
+    {
+      "area": "スパ ラクーア",
+      "menu": "満喫パンケーキ∵マンゴー&キウイフルーツ",
+      "author": "ふくらP",
+      "restaurant": "ラウンジカフェ",
+      "url": "https://www.laqua.jp/spa/facilities/restaurants/lounge_cafe/",
+      "coaster": "クイズA",
+      "price": 1500,
+      "is_closed": false
+    },
+    {
+      "area": "東京ドームシティ アトラクションズ",
+      "menu": "夜のアクアマリン",
+      "author": "ふくらP",
+      "restaurant": "マリオンクレープ（アトラクションズ店）",
+      "url": "https://www.tokyo-dome.co.jp/shops/g-marion-atrak.html",
+      "coaster": "謎B",
+      "price": 1000,
+      "is_closed": false
+    },
+    {
+      "area": "東京ドームシティ アトラクションズ",
+      "menu": "やったー！ツナとごぼうのクレープ！",
+      "author": "東言",
+      "restaurant": "マリオンクレープ（アトラクションズ店）",
+      "url": "https://www.tokyo-dome.co.jp/shops/g-marion-atrak.html",
+      "coaster": "ボイスB",
+      "price": 1000,
+      "is_closed": false
+    },
+    {
+      "area": "東京ドームホテル",
+      "menu": "ciel tricolore",
+      "author": "東問",
+      "restaurant": "43F スカイラウンジ＆ダイニング「アーティスト カフェ」スタンディングバー",
+      "url": "https://www.tokyodome-hotels.co.jp/restaurants/list/artistcafe/",
+      "coaster": "クイズA",
+      "price": 1800,
+      "is_closed": false
+    },
+    {
+      "area": "東京ドームホテル",
+      "menu": "comet hunter",
+      "author": "ふくらP",
+      "restaurant": "43F スカイラウンジ＆ダイニング「アーティスト カフェ」スタンディングバー",
+      "url": "https://www.tokyodome-hotels.co.jp/restaurants/list/artistcafe/",
+      "coaster": "ボイスA",
+      "price": 2000,
+      "is_closed": false
+    },
+    {
+      "area": "東京ドームホテル",
+      "menu": "サンセットピーチティー",
+      "author": "東言",
+      "restaurant": "6F バー「2000」",
+      "url": "https://www.tokyodome-hotels.co.jp/restaurants/list/bar2000/",
+      "coaster": "クイズA",
+      "price": 1800,
+      "is_closed": false
+    },
+    {
+      "area": "東京ドームホテル",
+      "menu": "Galaxy 〜ギャラクシー〜",
+      "author": "須貝駿貴",
+      "restaurant": "6F バー「2000」",
+      "url": "https://www.tokyodome-hotels.co.jp/restaurants/list/bar2000/",
+      "coaster": "謎B",
+      "price": 2000,
+      "is_closed": false
+    },
+    {
+      "area": "FOOD STADIUM TOKYO",
+      "menu": "問題！タコスが生まれた国はメ/ ﾋﾟﾝﾎﾟﾝ 日本！正解！早押しタコライス",
+      "author": "山本祥彰",
+      "restaurant": "Don Chava",
+      "url": "https://www.tokyo-dome.co.jp/shops/g-donchava.html",
+      "coaster": "謎A",
+      "price": 1280,
+      "is_closed": true
+    },
+    {
+      "area": "FOOD STADIUM TOKYO",
+      "menu": "タコスセット（タコスの「ス」って複数形のsだからセットじゃなかったらただのタコだったよ、よかったね）",
+      "author": "河村拓哉",
+      "restaurant": "Don Chava",
+      "url": "https://www.tokyo-dome.co.jp/shops/g-donchava.html",
+      "coaster": "謎B",
+      "price": 1500,
+      "is_closed": true
+    },
+    {
+      "area": "FOOD STADIUM TOKYO",
+      "menu": "丘に立つ月見鶏ちゃんぽん〜揚げナスを添えて〜",
+      "author": "東問",
+      "restaurant": "蟻月",
+      "url": "https://www.tokyo-dome.co.jp/shops/g-arizuki.html",
+      "coaster": "クイズB",
+      "price": 1480,
+      "is_closed": false
+    },
+    {
+      "area": "FOOD STADIUM TOKYO",
+      "menu": "二つの味が吹き抜ける！海鮮 ギンヌンガガップ丼",
+      "author": "東問",
+      "restaurant": "水道橋 すしわさび",
+      "url": "https://www.tokyo-dome.co.jp/shops/g-sushiwasabi.html",
+      "coaster": "ボイスB",
+      "price": 1320,
+      "is_closed": false
+    },
+    {
+      "area": "Space Travelium TeNQ",
+      "menu": "チョコバナナラテ、天の川の『の』の香り",
+      "author": "鶴崎修功",
+      "restaurant": "TeNQ CAFE 138",
+      "url": "https://www.tokyo-dome.co.jp/tenq/area/?tabChange=cafe",
+      "coaster": "ボイスA",
+      "price": 880,
+      "is_closed": false
+    },
+    {
+      "area": "Space Travelium TeNQ",
+      "menu": "プリントラテ『天幕』〜夜陰のシアター〜（コーヒー）",
+      "author": "伊沢拓司",
+      "restaurant": "TeNQ CAFE 138",
+      "url": "https://www.tokyo-dome.co.jp/tenq/area/?tabChange=cafe",
+      "coaster": "クイズB",
+      "price": 800,
+      "is_closed": false
+    },
+    {
+      "area": "Space Travelium TeNQ",
+      "menu": "プリントラテ『天幕』〜夜陰のシアター〜（カフェラテ）",
+      "author": "伊沢拓司",
+      "restaurant": "TeNQ CAFE 138",
+      "url": "https://www.tokyo-dome.co.jp/tenq/area/?tabChange=cafe",
+      "coaster": "クイズB",
+      "price": 850,
+      "is_closed": false
+    },
+    {
+      "area": "Space Travelium TeNQ",
+      "menu": "プリントラテ『天幕』〜夜陰のシアター〜（抹茶ラテ）",
+      "author": "伊沢拓司",
+      "restaurant": "TeNQ CAFE 138",
+      "url": "https://www.tokyo-dome.co.jp/tenq/area/?tabChange=cafe",
+      "coaster": "クイズB",
+      "price": 900,
+      "is_closed": false
+    },
+    {
+      "area": "Space Travelium TeNQ",
+      "menu": "プリントラテ『天幕』〜夜陰のシアター〜（ミルクティー）",
+      "author": "伊沢拓司",
+      "restaurant": "TeNQ CAFE 138",
+      "url": "https://www.tokyo-dome.co.jp/tenq/area/?tabChange=cafe",
+      "coaster": "クイズB",
+      "price": 900,
+      "is_closed": false
+    }
+  ]
+}

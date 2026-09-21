@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Android Studio の個人設定（端末シリアル等を含む）はリポジトリに入れない
+/.idea/

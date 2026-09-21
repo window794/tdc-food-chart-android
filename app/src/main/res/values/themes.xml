@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Tdcfoodchart" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- 本体テーマ。見た目は Compose 側（TdcFoodChartTheme）が決めるので、ここは窓の背景だけ合わせる -->
+    <style name="Theme.Tdcfoodchart" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/tdc_navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- OS 標準 SplashScreen。ネイビー地に真鍮の星図アイコン。表示後は本体テーマへ -->
+    <style name="Theme.Tdcfoodchart.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/tdc_navy</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_icon</item>
+        <item name="windowSplashScreenAnimationDuration">200</item>
+        <item name="postSplashScreenTheme">@style/Theme.Tdcfoodchart</item>
+    </style>
 </resources>

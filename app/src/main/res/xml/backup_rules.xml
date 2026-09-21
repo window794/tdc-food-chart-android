@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-   Sample backup rules file; uncomment and customize as necessary.
-   See https://developer.android.com/guide/topics/data/autobackup
-   for details.
-   Note: This file is ignored for devices older than API 31
-   See https://developer.android.com/about/versions/12/backup-restore
+   API 30 以下向けの Auto Backup ルール（API 31+ は data_extraction_rules.xml が優先）。
+   お気に入り・食べた記録・メモ・写真はユーザーが明示的に選ばない限り外部クラウドへ送らない方針のため、
+   すべて除外する（allowBackup="false" と二重に安全側へ倒している）。
 -->
 <full-backup-content>
-    <!--
-   <include domain="sharedpref" path="."/>
-   <exclude domain="sharedpref" path="device.xml"/>
--->
+    <exclude domain="database" path="." />
+    <exclude domain="sharedpref" path="." />
+    <exclude domain="file" path="." />
+    <exclude domain="external" path="." />
 </full-backup-content>
